@@ -140,4 +140,3 @@ This project was developed as part of learning Python basics, focusing on:
 - **GUI Development with Tkinter**: Designing and arranging widgets, styling the interface.
 - **Mathematical Computations**: Implementing mathematical operations and functions.
 
-Feel free to use, modify, and extend this calculator as you continue your journey in learning Python!
